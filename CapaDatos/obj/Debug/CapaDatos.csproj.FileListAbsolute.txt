@@ -1,0 +1,18 @@
+C:\Users\grima\source\repos\Parcial Lab2\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\grima\source\repos\Parcial Lab2\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\grima\source\repos\Parcial Lab2\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\grima\source\repos\Parcial Lab2\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\grima\source\repos\Parcial Lab2\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\grima\source\repos\Parcial Lab2\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\grima\Desktop\Parcial Lab2\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\grima\Desktop\Parcial Lab2\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\grima\Desktop\Parcial Lab2\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\grima\Desktop\Parcial Lab2\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\grima\Desktop\Parcial Lab2\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\grima\Desktop\Parcial Lab2\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaDatos\obj\Debug\CapaDatos.pdb

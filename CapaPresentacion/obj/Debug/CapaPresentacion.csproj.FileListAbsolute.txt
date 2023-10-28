@@ -1,0 +1,64 @@
+C:\Users\grima\source\repos\Parcial Lab2\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\grima\source\repos\Parcial Lab2\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\grima\source\repos\Parcial Lab2\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\grima\source\repos\Parcial Lab2\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\grima\source\repos\Parcial Lab2\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\grima\source\repos\Parcial Lab2\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\grima\source\repos\Parcial Lab2\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\grima\source\repos\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\grima\source\repos\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\grima\source\repos\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\grima\source\repos\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\grima\source\repos\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\grima\source\repos\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\grima\source\repos\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\grima\source\repos\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\grima\Desktop\Parcial Lab2\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\grima\Desktop\Parcial Lab2\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\grima\Desktop\Parcial Lab2\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\grima\Desktop\Parcial Lab2\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\grima\Desktop\Parcial Lab2\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\grima\Desktop\Parcial Lab2\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\grima\Desktop\Parcial Lab2\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\grima\Desktop\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\grima\Desktop\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\grima\Desktop\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\grima\Desktop\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\grima\Desktop\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\grima\Desktop\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\grima\Desktop\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\grima\Desktop\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\grima\Desktop\Parcial Lab2\CapaPresentacion\bin\Debug\CapaPresentacion.exe.manifest
+C:\Users\grima\Desktop\Parcial Lab2\CapaPresentacion\bin\Debug\CapaPresentacion.application
+C:\Users\grima\Desktop\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.exe.manifest
+C:\Users\grima\Desktop\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.application
+C:\Users\grima\Desktop\Laboratorio 2\Parcial Lab2\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\grima\Desktop\Laboratorio 2\Parcial Lab2\CapaPresentacion\bin\Debug\CapaPresentacion.exe.manifest
+C:\Users\grima\Desktop\Laboratorio 2\Parcial Lab2\CapaPresentacion\bin\Debug\CapaPresentacion.application
+C:\Users\grima\Desktop\Laboratorio 2\Parcial Lab2\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\grima\Desktop\Laboratorio 2\Parcial Lab2\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\grima\Desktop\Laboratorio 2\Parcial Lab2\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\grima\Desktop\Laboratorio 2\Parcial Lab2\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\grima\Desktop\Laboratorio 2\Parcial Lab2\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\grima\Desktop\Laboratorio 2\Parcial Lab2\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\grima\Desktop\Laboratorio 2\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\grima\Desktop\Laboratorio 2\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\grima\Desktop\Laboratorio 2\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\grima\Desktop\Laboratorio 2\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\grima\Desktop\Laboratorio 2\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\grima\Desktop\Laboratorio 2\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.exe.manifest
+C:\Users\grima\Desktop\Laboratorio 2\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.application
+C:\Users\grima\Desktop\Laboratorio 2\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\grima\Desktop\Laboratorio 2\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\grima\Desktop\Laboratorio 2\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\grima\Desktop\Laboratorio 2\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.Miembros.resources
+C:\Users\grima\Desktop\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.Miembros.resources
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.Miembros.resources
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

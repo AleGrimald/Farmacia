@@ -1,0 +1,27 @@
+C:\Users\grima\source\repos\Parcial Lab2\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\grima\source\repos\Parcial Lab2\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\grima\source\repos\Parcial Lab2\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\grima\source\repos\Parcial Lab2\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\grima\source\repos\Parcial Lab2\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\grima\source\repos\Parcial Lab2\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\grima\source\repos\Parcial Lab2\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\grima\source\repos\Parcial Lab2\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\grima\source\repos\Parcial Lab2\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\grima\Desktop\Parcial Lab2\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\grima\Desktop\Parcial Lab2\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\grima\Desktop\Parcial Lab2\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\grima\Desktop\Parcial Lab2\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\grima\Desktop\Parcial Lab2\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\grima\Desktop\Parcial Lab2\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\grima\Desktop\Parcial Lab2\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\grima\Desktop\Parcial Lab2\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\grima\Desktop\Parcial Lab2\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Ale Grima\Desktop\Parcial Lab2\CapaNegocio\obj\Debug\CapaNegocio.pdb
